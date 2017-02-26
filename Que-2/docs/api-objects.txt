@@ -1,0 +1,7 @@
+inputTest	inputTest-module.html
+inputTest.infoTest	inputTest-module.html#infoTest
+inputTest.writeInfo	inputTest-module.html#writeInfo
+inputTest.__package__	inputTest-module.html#__package__
+inputTest.girlsCategory	inputTest-module.html#girlsCategory
+inputTest.giftsCategory	inputTest-module.html#giftsCategory
+inputTest.boysCategory	inputTest-module.html#boysCategory

@@ -9,11 +9,17 @@ class girls(object):
 			-mainCost = mainCost
 			-category = category
 			-status=single
+			-happiness=0
+			-boyfriendName=''
 		'''
-		self.name = name  
-		self.intelligence = intelligence   
-		self.attractiveness = attractiveness 
-		self.mainCost = mainCost  
-		self.category = category 
-		self.status = "single"   
+		self.name = name
+		self.intelligence = intelligence
+		self.attractiveness = attractiveness
+		self.mainCost = mainCost
+		self.category = category
+		self.status = "single"
+		self.happiness = 0
+		self.boyfriendName=''
+
+	
 

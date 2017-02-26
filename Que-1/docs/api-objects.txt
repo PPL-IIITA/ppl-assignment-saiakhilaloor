@@ -1,0 +1,5 @@
+Que1	Que1-module.html
+Que1.writeLog	Que1-module.html#writeLog
+Que1.__package__	Que1-module.html#__package__
+Que1.Que1	Que1.Que1-class.html
+Que1.Que1.main	Que1.Que1-class.html#main

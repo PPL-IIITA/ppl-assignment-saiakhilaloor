@@ -1,0 +1,8 @@
+\begin{theindex}
+
+  \item Que1 \textit{(module)}, \hyperpage{2}
+    \subitem Que1.Que1 \textit{(class)}, \hyperpage{2}
+      \subsubitem Que1.Que1.main \textit{(method)}, \hyperpage{2}
+    \subitem Que1.writeLog \textit{(function)}, \hyperpage{2}
+
+\end{theindex}
