@@ -1,6 +1,8 @@
 # ppl-assignment-saiakhilaloor
 ppl-assignment-saiakhilaloor created by GitHub Classroom
 
+Assignment by IIT2015147- SAI AKHIL ALOOR
+
 # To run question 1:
 python Que1.py
 
