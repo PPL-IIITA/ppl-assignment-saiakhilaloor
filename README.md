@@ -9,6 +9,9 @@ python Que1.py
 # To run question 2:
 python Que2.py
 
-# To see documentation open docs/index.html
+To see documentation open docs/index.html
 
-# This build was tested on Ubuntu 16.04
+This build was tested on  Ubuntu 16.04
+
+Documentation by 
+# Epydoc
