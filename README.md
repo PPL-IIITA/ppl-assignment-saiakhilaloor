@@ -53,14 +53,10 @@ python Que-7/ques7.py
 
 ## Documentation :
 
-Documentation for every question is in the Documentation folder of every question
+Documentation for every question is in the Documentation folder of every question.
+Open the Documentation folder and click index.html
 
 ## Class Diagram :
 
 Class Diagram for every question is in every question folder seperately named as Class diagram.pdf
 
-
-<<<<<<< HEAD
-
-=======
->>>>>>> c16b7a93e6e299032d96b0840fe5dc26387e4921
