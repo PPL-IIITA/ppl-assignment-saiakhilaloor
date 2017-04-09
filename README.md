@@ -11,9 +11,6 @@ OS type: 64 bit**
 
 Editor : PyCharm Community Edition
 
-## Tested On :
-OS : Ubuntu 16.04 LTS
-
 ## How to Run:
 
 Clone the project to the desired location like 
