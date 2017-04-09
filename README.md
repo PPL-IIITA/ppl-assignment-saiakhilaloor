@@ -52,17 +52,11 @@ python Que-7/ques7.py
 ```
 
 ## Documentation :
-[Click here](https://github.com/PPL-IIITA/ppl-assignment-saiakhilaloor/tree/master/Que-1/Documentation/index.html) to see Documentation of Question-1
 
-[Click here](https://github.com/PPL-IIITA/ppl-assignment-saiakhilaloor/tree/master/Que-2/Documentation/index.html) to see Documentation of Question-2
+Documentation for every question is in the Documentation folder of every question
 
-[Click here](https://github.com/PPL-IIITA/ppl-assignment-saiakhilaloor/tree/master/Que-3/Documentation/index.html) to see Documentation of Question-3
+## Class Diagram :
 
-[Click here](https://github.com/PPL-IIITA/ppl-assignment-saiakhilaloor/tree/master/Que-4/Documentation/index.html) to see Documentation of Question-4
+Class Diagram for every question is in every question folder seperately named as Class diagram.pdf
 
-[Click here](https://github.com/PPL-IIITA/ppl-assignment-saiakhilaloor/tree/master/Que-5/Documentation/index.html) to see Documentation of Question-5
-
-[Click here](https://github.com/PPL-IIITA/ppl-assignment-saiakhilaloor/tree/master/Que-6/Documentation/index.html) to see Documentation of Question-6
-
-[Click here](https://github.com/PPL-IIITA/ppl-assignment-saiakhilaloor/tree/master/Que-7/Documentation/index.html) to see Documentation of Question-7
 
