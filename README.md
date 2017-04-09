@@ -2,8 +2,10 @@
 ## Sai Akhil Aloor - IIT2015147
 
 ## Build System:
->**ubuntu 16.04 LTS <br />
->OS type: 64 bit**
+```
+Ubuntu 16.04 LTS 
+OS type: 64 bit**
+```
 
 ## Tools Used :
 
