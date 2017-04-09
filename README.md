@@ -1,6 +1,3 @@
-# ppl-assignment-saiakhilaloor
-ppl-assignment-saiakhilaloor created by GitHub Classroom
-
 # PPL - Assignment
 ## Sai Akhil Aloor - IIT2015147
 
