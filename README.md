@@ -60,4 +60,7 @@ Documentation for every question is in the Documentation folder of every questio
 Class Diagram for every question is in every question folder seperately named as Class diagram.pdf
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c16b7a93e6e299032d96b0840fe5dc26387e4921
