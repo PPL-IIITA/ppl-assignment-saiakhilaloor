@@ -9,7 +9,9 @@ OS type: 64 bit**
 
 ## Tools Used :
 
-Editor : PyCharm Community Edition
+###### Editor : PyCharm Community Edition
+###### Documentation : epydoc
+###### Class Diagrams : pyNsource
 
 ## How to Run:
 
