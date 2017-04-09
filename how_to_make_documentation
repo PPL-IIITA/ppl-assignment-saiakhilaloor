@@ -1,0 +1,17 @@
+Documentation is created using "Epydoc" version 3.0.1, which is an automatic API documentation generation application for Python.
+
+Documentation is in "html" format.
+
+Documentation for each question is done separately.
+
+To open Documentation of a Question:
+
+1. Open the folder of that question, and in that folder go to the folder named "Documentation".
+2. Open "index.html" in a browser.
+
+To create Documentation of a question:
+
+1. Open terminal in the folder of a question.
+2. Use command (in terminal):
+	epydoc --html -o * Documentation
+

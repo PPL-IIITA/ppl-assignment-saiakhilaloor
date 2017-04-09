@@ -1,0 +1,8 @@
+All the required data is generated randomly by the input.py .
+
+All the data files are generated during the runtime of the program.
+
+While running each program, data files with new data is generated.
+
+
+
