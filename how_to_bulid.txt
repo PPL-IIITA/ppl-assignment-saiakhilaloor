@@ -4,5 +4,10 @@ All the data files are generated during the runtime of the program.
 
 While running each program, data files with new data is generated.
 
+The log files are generated for every question and saved as QuestionNumber.log
+
+The log files contains all the activities taking place
+
+The csv files are generated for every question and they are used for taking input
 
 
